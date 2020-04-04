@@ -7,7 +7,7 @@
 </h4>
 
 <p align="center">
-  <img alt="BeTheHero" src="frontend/src/assets/beTheHero.jfif" width="100%">
+  <img alt="BeTheHero" src="frontend/src/assets/beTheHero.JPG" width="100%">
 </p>
 
 ## 💻 Projeto
