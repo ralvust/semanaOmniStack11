@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="DevRadar" title="#BeTheHero" src="assets_frontend/logo.svg" width="200px" />
+    <img alt="DevRadar" title="#BeTheHero" src="frontend/src/assets/logo.svg" width="200px" />
 </h1>
 
 <h4 align="center">
@@ -7,7 +7,7 @@
 </h4>
 
 <p align="center">
-  <img alt="BeTheHero" src="assets_frontend/beTheHero.JPG" width="100%">
+  <img alt="BeTheHero" src="frontend/src/assets/beTheHero.JPG" width="100%">
 </p>
 
 ## 💻 Projeto
